@@ -1,0 +1,1 @@
+include ':app', ':diagonal-scroll-recyclerview'
