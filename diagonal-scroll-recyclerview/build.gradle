@@ -26,7 +26,7 @@ android {
 }
 
 group = 'io.dancmc.utils'
-version = '0.0.3'
+version = '0.0.4'
 
 ext {
     supportLibVersion = '25.3.1'
@@ -44,7 +44,7 @@ ext {
     artifact = 'diagonal-scroll-recyclerview'
 
     libraryDescription = 'A simple hack to implement a recyclerview that scrolls horizontally & vertically simultaneously.'
-    libraryVersion = '0.0.3'
+    libraryVersion = '0.0.4'
     siteUrl='https://github.com/dancmc/DiagonalScrollRecyclerView'
     gitUrl='https://github.com/dancmc/DiagonalScrollRecyclerView.git'
 

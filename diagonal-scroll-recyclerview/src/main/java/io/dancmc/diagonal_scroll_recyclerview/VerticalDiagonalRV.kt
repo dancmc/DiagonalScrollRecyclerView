@@ -167,6 +167,10 @@ open class VerticalDiagonalRV : HorizontalScrollView {
         return this.linearLayout
     }
 
+    fun getRecyclerView():RecyclerView{
+        return recyclerView
+    }
+
 
     // Misc utilities
 

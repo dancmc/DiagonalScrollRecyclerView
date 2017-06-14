@@ -168,6 +168,9 @@ open class HorizontalDiagonalRV : ScrollView {
         return this.linearLayout
     }
 
+    fun getRecyclerView():RecyclerView{
+        return recyclerView
+    }
 
     // Misc utilities
 
